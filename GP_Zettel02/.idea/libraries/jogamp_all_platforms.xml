@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jogamp-all-platforms">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jogamp-all-platforms/gluegen-java-src" />
+      <root url="file://$USER_HOME$/Downloads/jogamp-all-platforms/joal-java-src" />
+      <root url="file://$USER_HOME$/Downloads/jogamp-all-platforms/jogl-test-java-src" />
+      <root url="file://$USER_HOME$/Downloads/jogamp-all-platforms" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/jogamp-all-platforms" recursive="false" type="SOURCES" />
+  </library>
+</component>
